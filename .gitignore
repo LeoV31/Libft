@@ -1,0 +1,7 @@
+*.o
+*.a
+*.swp
+*venv
+test_libft.c
+test*
+*.txt
